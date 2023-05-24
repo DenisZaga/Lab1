@@ -1,0 +1,41 @@
+body {
+    background-color: #222;
+    color: #fff;
+    font-family: Arial;
+}
+
+.container {
+    width: 400px;
+    margin: 100px auto;
+    padding: 30px;
+    background-color: #333;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.inputs {
+    margin-bottom: 20px;
+}
+
+#function {
+    height: 30px;
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+#main_button {
+    padding: 10px;
+    background-color: #444;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+}
+
+.final_result {
+    font-size: 20px;
+    font-weight: bold;
+}
